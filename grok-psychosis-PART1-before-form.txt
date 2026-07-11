@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Grok AI Psychosis Lawsuit Attorney | The Schenk Law Firm</title>
-<style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
-</style>
-</head>
-<body>
-
-<div style="font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; padding: 0; width: 100%; box-sizing: border-box;">
-
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 <style>
 .aip-page * { box-sizing: border-box; }
 .aip-page a { text-decoration: none; }
@@ -49,6 +31,11 @@ article:has(.aip-page) {
   overflow: visible !important;
 }
 </style>
+
+<div style="font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; padding: 0; width: 100%; box-sizing: border-box;">
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 <div class="aip-page" style="width: 100%; color: #1e293b;">
 
@@ -545,8 +532,7 @@ article:has(.aip-page) {
     </div>
 </section>
 
-<!-- ==================== ELEMENTOR SPLIT POINT ==================== -->
-<!-- END OF WIDGET 1 — Expand CMS containers -->
+<!-- END OF WIDGET 1 — Place Elementor Contact Form widget after this -->
 <script>
 (function() {
   var s = document.currentScript;
@@ -562,108 +548,3 @@ article:has(.aip-page) {
   }
 })();
 </script>
-
-<!-- ==================== WIDGET 2 STARTS HERE ==================== -->
-<!-- In Elementor: place Contact Form widget between Widget 1 and Widget 2 -->
-
-<div class="aip-page">
-<!-- ==================== SECTION 10: FINAL CTA ==================== -->
-<section style="width: 100%; padding: 80px 16px; background: #1e293b; color: white;">
-    <div style="max-width: 896px; margin: 0 auto; text-align: center;">
-        <div style="display: flex; justify-content: center; margin-bottom: 32px;">
-            <img src="https://schenklawfirm.com/wp-content/uploads/2026/03/Firm-Mark-wht-1-copy.png" alt="The Schenk Law Firm" style="height: 64px; width: auto; opacity: 0.9;">
-        </div>
-        <h2 class="aip-playfair" style="font-size: 40px; font-weight: 700; margin-bottom: 24px;">Don't Let AI Negligence Go Unanswered</h2>
-        <p style="font-size: 20px; margin-bottom: 40px; color: #cbd5e1; max-width: 640px; margin-left: auto; margin-right: auto;">
-            If Grok AI caused you or a loved one to experience psychosis, delusions, or other serious mental health harm, contact The Schenk Law Firm today for a free, confidential case evaluation.
-        </p>
-        <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-            <a href="tel:+18584244444" style="background: #d97706; color: white; padding: 16px 40px; font-size: 18px; font-weight: 700; border-radius: 8px; text-decoration: none;">Call (858) 424-4444</a>
-            <a href="#aip-contact-form" style="border: 2px solid rgba(255,255,255,0.3); color: white; padding: 16px 40px; font-size: 18px; font-weight: 700; border-radius: 8px; text-decoration: none;">Free Case Evaluation</a>
-        </div>
-    </div>
-</section>
-
-<!-- ==================== SECTION 11: FOOTER ==================== -->
-<footer style="width: 100%; background: #0f172a; color: white; padding: 64px 16px;">
-    <div style="max-width: 1440px; margin: 0 auto;">
-        <div style="display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; margin-bottom: 48px;" class="aip-col-sm">
-            <div>
-                <div style="margin-bottom: 24px;">
-                    <div style="display: inline-flex; align-items: center; gap: 12px;">
-                        <img src="https://schenklawfirm.com/wp-content/uploads/2026/03/Firm-Mark-wht-1-copy.png" alt="SLF" style="height: 48px; width: auto; opacity: 0.9;">
-                        <div>
-                            <p class="aip-playfair" style="font-size: 18px; font-weight: 700; color: white; margin: 0;">The Schenk Law Firm</p>
-                            <p style="font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #64748b; margin: 0;">Attorneys at Law</p>
-                        </div>
-                    </div>
-                </div>
-                <p style="color: #94a3b8; margin-bottom: 24px; line-height: 1.6;"><a href="https://schenklawfirm.com/personal-injury/" style="color: #94a3b8; text-decoration: none;">Personal injury</a> and <a href="https://schenklawfirm.com/mass-torts/" style="color: #94a3b8; text-decoration: none;">mass tort</a> attorneys serving clients throughout the United States.</p>
-                <div style="color: #94a3b8;">
-                    <p style="font-weight: 600; color: white; margin-bottom: 4px;">Office Location</p>
-                    <p>3180 University Avenue, Suite 260</p>
-                    <p>San Diego, CA 92104</p>
-                </div>
-            </div>
-            <div>
-                <h4 style="font-weight: 700; font-size: 18px; margin-bottom: 24px;">Practice Areas</h4>
-                <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px; color: #94a3b8;">
-                    <li><a href="https://schenklawfirm.com/personal-injury/" style="color: #94a3b8; text-decoration: none;">Personal Injury</a></li>
-                    <li><a href="https://schenklawfirm.com/mass-torts/" style="color: #94a3b8; text-decoration: none;">Mass Torts</a></li>
-                    <li><a href="https://schenklawfirm.com/defective-product/" style="color: #94a3b8; text-decoration: none;">Defective Products</a></li>
-                    <li><a href="https://schenklawfirm.com/civil-rights/" style="color: #94a3b8; text-decoration: none;">Civil Rights</a></li>
-                    <li><a href="https://schenklawfirm.com/vehicle-accidents/" style="color: #94a3b8; text-decoration: none;">Vehicle Accidents</a></li>
-                </ul>
-            </div>
-            <div>
-                <h4 style="font-weight: 700; font-size: 18px; margin-bottom: 24px;">Contact</h4>
-                <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px; color: #94a3b8;">
-                    <li><a href="tel:+18584244444" style="color: #94a3b8; text-decoration: none;">(858) 424-4444</a></li>
-                    <li><a href="mailto:info@schenklawfirm.com" style="color: #94a3b8; text-decoration: none;">info@schenklawfirm.com</a></li>
-                    <li><a href="#aip-contact-form" style="color: #94a3b8; text-decoration: none;">Contact Form</a></li>
-                    <li><a href="https://schenklawfirm.com/team/" style="color: #94a3b8; text-decoration: none;">Our Team</a></li>
-                </ul>
-            </div>
-        </div>
-
-        <div style="border-top: 1px solid #1e293b; padding-top: 32px;">
-            <div style="font-size: 14px; color: #64748b;">
-                <p style="margin-bottom: 16px;">
-                    <strong>Attorney Advertising.</strong> This website is designed for general information only. The information presented at this site should not be construed to be formal legal advice nor the formation of a lawyer/client relationship. Prior results do not guarantee a similar outcome.
-                </p>
-                <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px;">
-                    <p>&copy; 2026 The Schenk Law Firm, LLP. All rights reserved.</p>
-                    <div style="display: flex; gap: 24px;">
-                        <a href="https://schenklawfirm.com/privacy/" style="color: #64748b; text-decoration: none;">Privacy Policy</a>
-                        <a href="https://schenklawfirm.com/disclaimer/" style="color: #64748b; text-decoration: none;">Disclaimer</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-
-<!-- Expand CMS containers to full viewport width -->
-<script>
-(function() {
-  function expand(el) {
-    var p = el.parentElement;
-    while (p && p !== document.body && p !== document.documentElement) {
-      p.style.setProperty('max-width', 'none', 'important');
-      p.style.setProperty('width', '100%', 'important');
-      p.style.setProperty('padding-left', '0', 'important');
-      p.style.setProperty('padding-right', '0', 'important');
-      p.style.setProperty('overflow', 'visible', 'important');
-      p = p.parentElement;
-    }
-  }
-  if (document.currentScript) expand(document.currentScript);
-  document.querySelectorAll('.aip-page').forEach(expand);
-})();
-</script>
-
-</div>
-</div>
-</div>
-</body>
-</html>
